@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Borts-Games
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unreal Engine and C++
-- I'm 14 years old and my name is Mikhail Bortsov
+- 👋 Hi, We are @Borts-Games
+- 👀 We are interested in game development
+- We developed 2 projects
 
+Links:
+
+ITCH.IO: https://borts-games.itch.io/
+GameJolt: https://gamejolt.com/@Borts_Games
 YouTube: https://www.youtube.com/channel/UClwYgzcURJ70Zd1XfgYOdZw
 Instagram: https://www.instagram.com/borts_games/
-ITCH.IO: https://borts-games.itch.io/
-Discord: https://discord.com/channels/786871729082597416/786871729082597418
+Twitter: https://twitter.com/Borts_Games
+Discord server: https://discord.gg/23aYYSsUBA
+VK Fan-page: https://vk.com/bortsgamesfan
 
 <!---
 Borts-Games/Borts-Games is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
