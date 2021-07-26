@@ -5,7 +5,7 @@
 Links:
 
 ITCH.IO: https://borts-games.itch.io/
-GameJolt: https://gamejolt.com/@Borts_Games
+Game Jolt: https://gamejolt.com/@Borts_Games
 YouTube: https://www.youtube.com/channel/UClwYgzcURJ70Zd1XfgYOdZw
 Instagram: https://www.instagram.com/borts_games/
 Twitter: https://twitter.com/Borts_Games
