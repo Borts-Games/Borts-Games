@@ -1,6 +1,6 @@
 - 👋 Hi, We are @Borts-Games
 - 👀 We are interested in game development
-- We developed 2 projects
+- We developed 3 projects
 
 Links:
 
